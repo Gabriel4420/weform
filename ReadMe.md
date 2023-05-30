@@ -40,17 +40,14 @@
 
 ## :rocket: Sobre o Projeto
 
-Bem-vindo ao site fictício, o We Form! Aqui, você encontrará uma interface de uma possivel plataforma abrangente e interativa dedicada ao cadastro de entidades e ONGs que trabalham em prol dos animais. Nosso objetivo é fornecer uma ferramenta eficaz para conectar pessoas apaixonadas por animais e facilitar o acesso a informações valiosas sobre os parceiros dessas organizações.
+Bem-vindo ao site fictício, We Form! Aqui, você encontrará uma interface de uma possivel plataforma abrangente e interativa dedicada ao cadastro de entidades e ONGs que trabalham em prol dos animais. Nosso objetivo é fornecer uma ferramenta eficaz para conectar pessoas apaixonadas por animais e facilitar o acesso a informações valiosas sobre os parceiros dessas organizações.
 
 Ao se cadastrar no We Form, você pode registrar sua entidade ou ONG relacionada a animais e criar um perfil detalhado para compartilhar informações essenciais sobre sua missão, projetos, conquistas e contatos. Essa visibilidade aumentada permite que você alcance mais apoiadores e colaboradores, ampliando assim o impacto positivo que sua organização tem na vida dos animais.
 
 Além disso, os usuários do We Form têm acesso privilegiado aos dados dos parceiros das ONGs. Nossa plataforma integra informações atualizadas sobre outras organizações que compartilham interesses e objetivos semelhantes. Você pode explorar perfis detalhados desses parceiros, conhecer suas áreas de atuação, ler sobre seus projetos, visualizar suas conquistas e, o mais importante, entrar em contato diretamente com eles.
 
-O We Form é um espaço de colaboração e compartilhamento, onde os membros da comunidade se unem em prol de uma causa comum: ajudar os animais. Nossa plataforma busca promover a cooperação entre entidades e ONGs, encorajando a formação de parcerias, troca de conhecimentos e compartilhamento de recursos.
+:warning: Este site é um projeto ficticio criado pelo curso da Ada Santander Cod3r's ! :warning:
 
-Navegar pelo We Form é fácil e intuitivo. Nossa interface amigável permite que você encontre rapidamente as informações que precisa. Com recursos de pesquisa avançada e filtros personalizados, você pode encontrar facilmente organizações específicas, explorar diferentes áreas de atuação e descobrir projetos que mais lhe interessam.
-
-No We Form, acreditamos que, ao unir forças e compartilhar recursos, podemos fazer a diferença na vida dos animais. Junte-se a nós e seja parte dessa comunidade empenhada em criar um mundo melhor para os nossos amigos de quatro patas. Cadastre-se agora e faça parte dessa incrível jornada de cuidado e proteção animal!
 
 ---
 
