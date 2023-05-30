@@ -51,6 +51,7 @@ O We Form é um espaço de colaboração e compartilhamento, onde os membros da 
 Navegar pelo We Form é fácil e intuitivo. Nossa interface amigável permite que você encontre rapidamente as informações que precisa. Com recursos de pesquisa avançada e filtros personalizados, você pode encontrar facilmente organizações específicas, explorar diferentes áreas de atuação e descobrir projetos que mais lhe interessam.
 
 No We Form, acreditamos que, ao unir forças e compartilhar recursos, podemos fazer a diferença na vida dos animais. Junte-se a nós e seja parte dessa comunidade empenhada em criar um mundo melhor para os nossos amigos de quatro patas. Cadastre-se agora e faça parte dessa incrível jornada de cuidado e proteção animal!
+
 ---
 
 ## 👨‍💻️ Tecnogias utilizadas
